@@ -11,7 +11,7 @@
 
 	<name>ra-http-client</name>
 	<url>https://resolvingarchitecture.io</url>
-	<description>Resolving Architecture - HTTP Client</description>
+	<description>Resolving Architecture - HTTP(S)ad Client</description>
 	<inceptionYear>2017</inceptionYear>
 
 	<properties>
