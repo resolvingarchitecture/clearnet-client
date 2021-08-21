@@ -27,8 +27,8 @@ import ra.common.route.ExternalRoute;
 import ra.common.route.Route;
 import ra.common.service.ServiceStatus;
 import ra.common.service.ServiceStatusObserver;
-import ra.util.BrowserUtil;
-import ra.util.Config;
+import ra.common.BrowserUtil;
+import ra.common.Config;
 
 import javax.net.ssl.*;
 import java.io.File;

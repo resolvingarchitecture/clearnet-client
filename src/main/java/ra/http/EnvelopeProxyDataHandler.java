@@ -6,7 +6,7 @@ import ra.common.DLC;
 import ra.common.Envelope;
 import ra.common.content.Content;
 import ra.common.messaging.DocumentMessage;
-import ra.util.JSONParser;
+import ra.common.JSONParser;
 
 import javax.servlet.MultipartConfigElement;
 import javax.servlet.ServletException;

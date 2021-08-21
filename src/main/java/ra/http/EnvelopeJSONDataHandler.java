@@ -9,8 +9,8 @@ import ra.common.Envelope;
 import ra.common.content.Content;
 import ra.common.identity.DID;
 import ra.common.messaging.DocumentMessage;
-import ra.util.JSONParser;
-import ra.util.RandomUtil;
+import ra.common.JSONParser;
+import ra.common.RandomUtil;
 
 import javax.servlet.MultipartConfigElement;
 import javax.servlet.ServletException;
